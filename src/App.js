@@ -73,8 +73,9 @@ const Portfolio = () => {
               <h3>HTML</h3>
               <h3>CSS</h3>
               <h3>JavaScript</h3>
-              <h3>React</h3>
-              <h3>Type Script</h3>
+              <h3>React.js</h3>
+              <h3>vue.js</h3>
+              <h3>next.js</h3>
               <h3>Photo Shop </h3>
               <h3>canva</h3>
                {/* Add any other frontend skills you have */}
